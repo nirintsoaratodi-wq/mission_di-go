@@ -1,0 +1,5 @@
+1. Reduction dimensionnelle
+2. feature engineering
+3. Data Eingenering
+4. POO
+5. Developpeur Web
